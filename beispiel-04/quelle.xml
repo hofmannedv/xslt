@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../docbook-xml-4.5/docbookx.dtd">
+
+<lingPaper automaticallywrapinterlinears="yes">
+	<frontMatter>
+		<title>The crashed airplane - Told by Belinha - Part 2</title>
+		<author>PDYP_MIC_A_01 42.mpg</author>
+	</frontMatter>
+
+	<section1 id="s1">
+		<secTitle>Interlinear text</secTitle>
+  
+		<p>paragraph 1.1</p>
+		<example num="xID0E5F-1.1">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">Hei</langData></wrd>
+						<wrd><langData lang="wca-baseline">apiama</langData></wrd>
+						<wrd><langData lang="wca-baseline">a</langData></wrd>
+						<wrd><langData lang="wca-baseline">ka</langData></wrd>
+						<wrd><langData lang="wca-baseline">prare,</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">hei</langData></wrd>
+						<wrd><langData lang="wca-morpheme">apiama</langData></wrd>
+						<wrd><langData lang="wca-morpheme">a=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ka=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">pra=re</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">este</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">avião</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">3SG(P)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">FOC=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">jazer=REL.PRES</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">
+					Este avião que está aqui no chão,
+					<endnote id="nID0EZF">
+						<p>PDYP_MIC_A_01 42.mpg 0.897 3.799</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+
+	</section1>
+
+</lingPaper>
