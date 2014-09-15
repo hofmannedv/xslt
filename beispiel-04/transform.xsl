@@ -36,6 +36,9 @@
 					</tbody>
 				</tgroup>
 			</informaltable>
+			<para>
+				<xsl:value-of select="/lingPaper/section1/example/interlinear/free"/>
+			</para>
 		</section>
 	</article>
 </xsl:template>
