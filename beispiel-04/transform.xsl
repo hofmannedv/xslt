@@ -18,27 +18,30 @@
 
 		<section>
 			<title><xsl:value-of select="/lingPaper/section1/secTitle"/></title>
-			<informaltable frame='none'>
-				<tgroup cols="5">
-					<tbody>
-						<xsl:for-each select="//example/interlinear"> 
-							<xsl:for-each select="lineGroup/line"> 
-								<row>
-								<xsl:for-each select="wrd/langData"> 
-										<entry><xsl:value-of select="."/></entry>
+			<section>
+				<title>Paragraph</title>
+				<informaltable frame='none'>
+					<tgroup cols="5">
+						<tbody>
+							<xsl:for-each select="//example/interlinear"> 
+								<xsl:for-each select="lineGroup/line"> 
+									<row>
+										<xsl:for-each select="wrd/langData"> 
+											<entry><xsl:value-of select="."/></entry>
+										</xsl:for-each>
+										<xsl:for-each select="wrd/gloss">
+											<entry><xsl:value-of select="."/></entry>
+										</xsl:for-each>
+									</row>
 								</xsl:for-each>
-								<xsl:for-each select="wrd/gloss">
-										<entry><xsl:value-of select="."/></entry>
-								</xsl:for-each>
-								</row>
 							</xsl:for-each>
-						</xsl:for-each>
-					</tbody>
-				</tgroup>
-			</informaltable>
-			<para>
-				<xsl:value-of select="/lingPaper/section1/example/interlinear/free"/>
-			</para>
+						</tbody>
+					</tgroup>
+				</informaltable>
+				<para>
+					<xsl:value-of select="/lingPaper/section1/example/interlinear/free"/>
+				</para>
+			</section>
 		</section>
 	</article>
 </xsl:template>

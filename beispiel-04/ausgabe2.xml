@@ -10,38 +10,41 @@
   </articleinfo>
   <section>
     <title>Interlinear text</title>
-    <informaltable frame="none">
-      <tgroup cols="5">
-        <tbody>
-          <row>
-            <entry>Hei</entry>
-            <entry>apiama</entry>
-            <entry>a</entry>
-            <entry>ka</entry>
-            <entry>prare,</entry>
-          </row>
-          <row>
-            <entry>hei</entry>
-            <entry>apiama</entry>
-            <entry>a=</entry>
-            <entry>ka=</entry>
-            <entry>pra=re</entry>
-          </row>
-          <row>
-            <entry>este</entry>
-            <entry>avi&#xE3;o</entry>
-            <entry>3SG(P)=</entry>
-            <entry>FOC=</entry>
-            <entry>jazer=REL.PRES</entry>
-          </row>
-        </tbody>
-      </tgroup>
-    </informaltable>
-    <para>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>Hei</entry>
+              <entry>apiama</entry>
+              <entry>a</entry>
+              <entry>ka</entry>
+              <entry>prare,</entry>
+            </row>
+            <row>
+              <entry>hei</entry>
+              <entry>apiama</entry>
+              <entry>a=</entry>
+              <entry>ka=</entry>
+              <entry>pra=re</entry>
+            </row>
+            <row>
+              <entry>este</entry>
+              <entry>avi&#xE3;o</entry>
+              <entry>3SG(P)=</entry>
+              <entry>FOC=</entry>
+              <entry>jazer=REL.PRES</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>
 					Este avi&#xE3;o que est&#xE1; aqui no ch&#xE3;o,
 					
 						PDYP_MIC_A_01 42.mpg 0.897 3.799
 					
 				</para>
+    </section>
   </section>
 </article>
