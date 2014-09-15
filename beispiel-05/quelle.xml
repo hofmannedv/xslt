@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../docbook-xml-4.5/docbookx.dtd">
+
+<lingPaper automaticallywrapinterlinears="yes">
+	<frontMatter>
+		<title>The crashed airplane - Told by Belinha - Part 2</title>
+		<author>PDYP_MIC_A_01 42.mpg</author>
+	</frontMatter>
+
+	<section1 id="s1">
+		<secTitle>Interlinear text</secTitle>
+  
+		<p>paragraph 1.1</p>
+		<example num="xID0E5F-1.1">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">Hei</langData></wrd>
+						<wrd><langData lang="wca-baseline">apiama</langData></wrd>
+						<wrd><langData lang="wca-baseline">a</langData></wrd>
+						<wrd><langData lang="wca-baseline">ka</langData></wrd>
+						<wrd><langData lang="wca-baseline">prare,</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">hei</langData></wrd>
+						<wrd><langData lang="wca-morpheme">apiama</langData></wrd>
+						<wrd><langData lang="wca-morpheme">a=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ka=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">pra=re</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">este</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">avião</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">3SG(P)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">FOC=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">jazer=REL.PRES</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">
+					Este avião que está aqui no chão,
+					<endnote id="nID0EZF">
+						<p>PDYP_MIC_A_01 42.mpg 0.897 3.799</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+
+		<p>paragraph 1.2</p>
+		<example num="xID0E5F-1.2">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">hapai</langData></wrd>
+						<wrd><langData lang="wca-baseline">nahã</langData></wrd>
+						<wrd><langData lang="wca-baseline">a</langData></wrd>
+						<wrd><langData lang="wca-baseline">kuama.</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">hapai</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ɨnahã</langData></wrd>
+						<wrd><langData lang="wca-morpheme">a=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ku=a=ma</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">CAT</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">assim</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">3SG(P)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">existir=IPFV=PST</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">acontenceu foi o seguinte.
+					<endnote id="nID0EJCAC">
+						<p>PDYP_MIC_A_01 42.mpg 4.083 5.810</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+
+		<p>paragraph 2.1</p>
+		<example num="xID0E3RAG-2.1">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">Ya...</langData></wrd>
+						<wrd><langData lang="wca-baseline">ya</langData></wrd>
+						<wrd><langData lang="wca-baseline">moko</langData></wrd>
+						<wrd><langData lang="wca-baseline">mahiõ</langData></wrd>
+						<wrd><langData lang="wca-baseline">tëhë,</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">ya</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ya</langData></wrd>
+						<wrd><langData lang="wca-morpheme">moko</langData></wrd>
+						<wrd><langData lang="wca-morpheme">mahi=õ</langData></wrd>
+						<wrd><langData lang="wca-morpheme">=tëhë</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">1SG(S)</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">1SG(S)</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">ser moça</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">muito=IPFV</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">=REL.PRS</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">Quando eu muito moça,
+					<endnote id="nID0EPHAC">
+						<p>PDYP_MIC_A_01 42.mpg 5.810 8.610</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+
+		<p>paragraph 2.2</p>
+		<example num="xID0E3RAG-2.2">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">hapa</langData></wrd>
+						<wrd><langData lang="wca-baseline">tëhë</langData></wrd>
+						<wrd><langData lang="wca-baseline">kami</langData></wrd>
+						<wrd><langData lang="wca-baseline">ya</langData></wrd>
+						<wrd><langData lang="wca-baseline">moko</langData></wrd>
+						<wrd><langData lang="wca-baseline">mahiõ</langData></wrd>
+						<wrd><langData lang="wca-baseline">tëhë,</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">hapa</langData></wrd>
+						<wrd><langData lang="wca-morpheme">=tëhë</langData></wrd>
+						<wrd><langData lang="wca-morpheme">kami</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ya=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">moko</langData></wrd>
+						<wrd><langData lang="wca-morpheme">mahi=õ</langData></wrd>
+						<wrd><langData lang="wca-morpheme">=tëhë</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">antes</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">=REL.PRS</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">1</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">1SG(S)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">ser moça</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">muito=IPFV</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">=REL.PRS</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">quando eu era muito moça,
+					<endnote id="nID0EWNAC">
+						<p>PDYP_MIC_A_01 42.mpg 8.610 10.963</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+
+		<p>paragraph 2.3</p>
+		<example num="xID0E3RAG-2.3">
+			<interlinear><lineGroup><line><wrd><langData lang="wca-baseline">ipa</langData></wrd><wrd><langData lang="wca-baseline">uhuru</langData></wrd><wrd><langData lang="wca-baseline">mori</langData></wrd><wrd><langData lang="wca-baseline">ya</langData></wrd><wrd><langData lang="wca-baseline">a</langData></wrd><wrd><langData lang="wca-baseline">hapa</langData></wrd><wrd><langData lang="wca-baseline">thaprari</langData></wrd><wrd><langData lang="wca-baseline">wei,</langData></wrd></line><line><wrd><langData lang="wca-morpheme">ipa</langData></wrd><wrd><langData lang="wca-morpheme">uhuru</langData></wrd><wrd><langData lang="wca-morpheme">mõri</langData></wrd><wrd><langData lang="wca-morpheme">ya=</langData></wrd><wrd><langData lang="wca-morpheme">a=</langData></wrd><wrd><langData lang="wca-morpheme">hapa</langData></wrd><wrd><langData lang="wca-morpheme">tha=pra=ri</langData></wrd><wrd><langData lang="wca-morpheme">=wei</langData></wrd></line><line><wrd><gloss lang="pt-lexGloss">1POS</gloss></wrd><wrd><gloss lang="pt-lexGloss">criança</gloss></wrd><wrd><gloss lang="pt-lexGloss">um</gloss></wrd><wrd><gloss lang="pt-lexGloss">1SG(S)=</gloss></wrd><wrd><gloss lang="pt-lexGloss">3SG(P)=</gloss></wrd><wrd><gloss lang="pt-lexGloss">antes</gloss></wrd><wrd><gloss lang="pt-lexGloss">fazer=TRZ=PFV.TR</gloss></wrd><wrd><gloss lang="pt-lexGloss">=NMZ</gloss></wrd></line></lineGroup><free lang="pt-free">quando eu tinha feito apenas um filho,<endnote id="nID0ECFAE"><p>PDYP_MIC_A_01 42.mpg 11.057 14.290</p></endnote></free></interlinear></example>
+
+		<p>paragraph 2.4</p>
+		<example num="xID0E3RAG-2.4">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">ya</langData></wrd>
+						<wrd><langData lang="wca-baseline">a</langData></wrd>
+						<wrd><langData lang="wca-baseline">maoporanë,</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">ya=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">a=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">mao=po=ra=në</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">1SG(S)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">3SG(P)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">ter nos braços ou ombro=guardar=DISTR=REL.PST</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">eu carregando ele nos meus braços,
+					<endnote id="nID0EHJAE">
+						<p>PDYP_MIC_A_01 42.mpg 14.422 16.080</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+
+		<p>paragraph 2.5</p>
+		<example num="xID0E3RAG-2.5">
+			<interlinear>
+				<lineGroup>
+					<line>
+						<wrd><langData lang="wca-baseline">ɨhɨ tëhë</langData></wrd>
+						<wrd><langData lang="wca-baseline">ya</langData></wrd>
+						<wrd><langData lang="wca-baseline">mamo</langData></wrd>
+						<wrd><langData lang="wca-baseline">xatioti</langData></wrd>
+						<wrd><langData lang="wca-baseline">tëhë,</langData></wrd>
+					</line>
+					<line>
+						<wrd><langData lang="wca-morpheme">ɨhɨ=tëhë</langData></wrd>
+						<wrd><langData lang="wca-morpheme">ya=</langData></wrd>
+						<wrd><langData lang="wca-morpheme">mamo</langData></wrd>
+						<wrd><langData lang="wca-morpheme">xati=o=ti</langData></wrd>
+						<wrd><langData lang="wca-morpheme">=tëhë</langData></wrd>
+					</line>
+					<line>
+						<wrd><gloss lang="pt-lexGloss">ANA=REL.PRS</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">1SG(S)=</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">olho</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">cravar=IPFV=DUR</gloss></wrd>
+						<wrd><gloss lang="pt-lexGloss">=REL.PRS</gloss></wrd>
+					</line>
+				</lineGroup>
+				<free lang="pt-free">e então quando estava observando,
+					<endnote id="nID0E1OAE">
+						<p>PDYP_MIC_A_01 42.mpg 16.080 18.460</p>
+					</endnote>
+				</free>
+			</interlinear>
+		</example>
+ 	</section1>
+
+</lingPaper>

@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../docbook-xml-4.5/docbookx.dtd">
+<article>
+  <articleinfo>
+    <title>The crashed airplane - Told by Belinha - Part 2</title>
+    <author>
+      <firstname>PDYP_MIC_A_01 42.mpg</firstname>
+      <surname/>
+    </author>
+  </articleinfo>
+  <section>
+    <title>Interlinear text</title>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>Hei</entry>
+              <entry>apiama</entry>
+              <entry>a</entry>
+              <entry>ka</entry>
+              <entry>prare,</entry>
+            </row>
+            <row>
+              <entry>hei</entry>
+              <entry>apiama</entry>
+              <entry>a=</entry>
+              <entry>ka=</entry>
+              <entry>pra=re</entry>
+            </row>
+            <row>
+              <entry>este</entry>
+              <entry>avi&#xE3;o</entry>
+              <entry>3SG(P)=</entry>
+              <entry>FOC=</entry>
+              <entry>jazer=REL.PRES</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>
+					Este avi&#xE3;o que est&#xE1; aqui no ch&#xE3;o,
+					
+						PDYP_MIC_A_01 42.mpg 0.897 3.799
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>hapai</entry>
+              <entry>nah&#xE3;</entry>
+              <entry>a</entry>
+              <entry>kuama.</entry>
+            </row>
+            <row>
+              <entry>hapai</entry>
+              <entry>&#x268;nah&#xE3;</entry>
+              <entry>a=</entry>
+              <entry>ku=a=ma</entry>
+            </row>
+            <row>
+              <entry>CAT</entry>
+              <entry>assim</entry>
+              <entry>3SG(P)=</entry>
+              <entry>existir=IPFV=PST</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>acontenceu foi o seguinte.
+					
+						PDYP_MIC_A_01 42.mpg 4.083 5.810
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>Ya...</entry>
+              <entry>ya</entry>
+              <entry>moko</entry>
+              <entry>mahi&#xF5;</entry>
+              <entry>t&#xEB;h&#xEB;,</entry>
+            </row>
+            <row>
+              <entry>ya</entry>
+              <entry>ya</entry>
+              <entry>moko</entry>
+              <entry>mahi=&#xF5;</entry>
+              <entry>=t&#xEB;h&#xEB;</entry>
+            </row>
+            <row>
+              <entry>1SG(S)</entry>
+              <entry>1SG(S)</entry>
+              <entry>ser mo&#xE7;a</entry>
+              <entry>muito=IPFV</entry>
+              <entry>=REL.PRS</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>Quando eu muito mo&#xE7;a,
+					
+						PDYP_MIC_A_01 42.mpg 5.810 8.610
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="7">
+          <tbody>
+            <row>
+              <entry>hapa</entry>
+              <entry>t&#xEB;h&#xEB;</entry>
+              <entry>kami</entry>
+              <entry>ya</entry>
+              <entry>moko</entry>
+              <entry>mahi&#xF5;</entry>
+              <entry>t&#xEB;h&#xEB;,</entry>
+            </row>
+            <row>
+              <entry>hapa</entry>
+              <entry>=t&#xEB;h&#xEB;</entry>
+              <entry>kami</entry>
+              <entry>ya=</entry>
+              <entry>moko</entry>
+              <entry>mahi=&#xF5;</entry>
+              <entry>=t&#xEB;h&#xEB;</entry>
+            </row>
+            <row>
+              <entry>antes</entry>
+              <entry>=REL.PRS</entry>
+              <entry>1</entry>
+              <entry>1SG(S)=</entry>
+              <entry>ser mo&#xE7;a</entry>
+              <entry>muito=IPFV</entry>
+              <entry>=REL.PRS</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>quando eu era muito mo&#xE7;a,
+					
+						PDYP_MIC_A_01 42.mpg 8.610 10.963
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="8">
+          <tbody>
+            <row>
+              <entry>ipa</entry>
+              <entry>uhuru</entry>
+              <entry>mori</entry>
+              <entry>ya</entry>
+              <entry>a</entry>
+              <entry>hapa</entry>
+              <entry>thaprari</entry>
+              <entry>wei,</entry>
+            </row>
+            <row>
+              <entry>ipa</entry>
+              <entry>uhuru</entry>
+              <entry>m&#xF5;ri</entry>
+              <entry>ya=</entry>
+              <entry>a=</entry>
+              <entry>hapa</entry>
+              <entry>tha=pra=ri</entry>
+              <entry>=wei</entry>
+            </row>
+            <row>
+              <entry>1POS</entry>
+              <entry>crian&#xE7;a</entry>
+              <entry>um</entry>
+              <entry>1SG(S)=</entry>
+              <entry>3SG(P)=</entry>
+              <entry>antes</entry>
+              <entry>fazer=TRZ=PFV.TR</entry>
+              <entry>=NMZ</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>quando eu tinha feito apenas um filho,PDYP_MIC_A_01 42.mpg 11.057 14.290</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>ya</entry>
+              <entry>a</entry>
+              <entry>maoporan&#xEB;,</entry>
+            </row>
+            <row>
+              <entry>ya=</entry>
+              <entry>a=</entry>
+              <entry>mao=po=ra=n&#xEB;</entry>
+            </row>
+            <row>
+              <entry>1SG(S)=</entry>
+              <entry>3SG(P)=</entry>
+              <entry>ter nos bra&#xE7;os ou ombro=guardar=DISTR=REL.PST</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>eu carregando ele nos meus bra&#xE7;os,
+					
+						PDYP_MIC_A_01 42.mpg 14.422 16.080
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <para>Test</para>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>&#x268;h&#x268; t&#xEB;h&#xEB;</entry>
+              <entry>ya</entry>
+              <entry>mamo</entry>
+              <entry>xatioti</entry>
+              <entry>t&#xEB;h&#xEB;,</entry>
+            </row>
+            <row>
+              <entry>&#x268;h&#x268;=t&#xEB;h&#xEB;</entry>
+              <entry>ya=</entry>
+              <entry>mamo</entry>
+              <entry>xati=o=ti</entry>
+              <entry>=t&#xEB;h&#xEB;</entry>
+            </row>
+            <row>
+              <entry>ANA=REL.PRS</entry>
+              <entry>1SG(S)=</entry>
+              <entry>olho</entry>
+              <entry>cravar=IPFV=DUR</entry>
+              <entry>=REL.PRS</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>e ent&#xE3;o quando estava observando,
+					
+						PDYP_MIC_A_01 42.mpg 16.080 18.460
+					
+				</para>
+    </section>
+  </section>
+</article>
