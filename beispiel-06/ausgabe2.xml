@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../docbook-xml-4.5/docbookx.dtd">
+<article>
+  <articleinfo>
+    <title>The crashed airplane - Told by Belinha - Part 2</title>
+    <author>
+      <firstname>PDYP_MIC_A_01 42.mpg</firstname>
+      <surname/>
+    </author>
+  </articleinfo>
+  <section>
+    <title>Interlinear text</title>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">Hei</entry>
+              <entry lang="wca-baseline">apiama</entry>
+              <entry lang="wca-baseline">a</entry>
+              <entry lang="wca-baseline">ka</entry>
+              <entry lang="wca-baseline">prare,</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">hei</entry>
+              <entry lang="wca-morpheme">apiama</entry>
+              <entry lang="wca-morpheme">a=</entry>
+              <entry lang="wca-morpheme">ka=</entry>
+              <entry lang="wca-morpheme">pra=re</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">este</entry>
+              <entry lang="pt-lexGloss">avi&#xE3;o</entry>
+              <entry lang="pt-lexGloss">3SG(P)=</entry>
+              <entry lang="pt-lexGloss">FOC=</entry>
+              <entry lang="pt-lexGloss">jazer=REL.PRES</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>
+					Este avi&#xE3;o que est&#xE1; aqui no ch&#xE3;o,
+					
+						PDYP_MIC_A_01 42.mpg 0.897 3.799
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">hapai</entry>
+              <entry lang="wca-baseline">nah&#xE3;</entry>
+              <entry lang="wca-baseline">a</entry>
+              <entry lang="wca-baseline">kuama.</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">hapai</entry>
+              <entry lang="wca-morpheme">&#x268;nah&#xE3;</entry>
+              <entry lang="wca-morpheme">a=</entry>
+              <entry lang="wca-morpheme">ku=a=ma</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">CAT</entry>
+              <entry lang="pt-lexGloss">assim</entry>
+              <entry lang="pt-lexGloss">3SG(P)=</entry>
+              <entry lang="pt-lexGloss">existir=IPFV=PST</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>acontenceu foi o seguinte.
+					
+						PDYP_MIC_A_01 42.mpg 4.083 5.810
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">Ya...</entry>
+              <entry lang="wca-baseline">ya</entry>
+              <entry lang="wca-baseline">moko</entry>
+              <entry lang="wca-baseline">mahi&#xF5;</entry>
+              <entry lang="wca-baseline">t&#xEB;h&#xEB;,</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">ya</entry>
+              <entry lang="wca-morpheme">ya</entry>
+              <entry lang="wca-morpheme">moko</entry>
+              <entry lang="wca-morpheme">mahi=&#xF5;</entry>
+              <entry lang="wca-morpheme">=t&#xEB;h&#xEB;</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">1SG(S)</entry>
+              <entry lang="pt-lexGloss">1SG(S)</entry>
+              <entry lang="pt-lexGloss">ser mo&#xE7;a</entry>
+              <entry lang="pt-lexGloss">muito=IPFV</entry>
+              <entry lang="pt-lexGloss">=REL.PRS</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>Quando eu muito mo&#xE7;a,
+					
+						PDYP_MIC_A_01 42.mpg 5.810 8.610
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="7">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">hapa</entry>
+              <entry lang="wca-baseline">t&#xEB;h&#xEB;</entry>
+              <entry lang="wca-baseline">kami</entry>
+              <entry lang="wca-baseline">ya</entry>
+              <entry lang="wca-baseline">moko</entry>
+              <entry lang="wca-baseline">mahi&#xF5;</entry>
+              <entry lang="wca-baseline">t&#xEB;h&#xEB;,</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">hapa</entry>
+              <entry lang="wca-morpheme">=t&#xEB;h&#xEB;</entry>
+              <entry lang="wca-morpheme">kami</entry>
+              <entry lang="wca-morpheme">ya=</entry>
+              <entry lang="wca-morpheme">moko</entry>
+              <entry lang="wca-morpheme">mahi=&#xF5;</entry>
+              <entry lang="wca-morpheme">=t&#xEB;h&#xEB;</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">antes</entry>
+              <entry lang="pt-lexGloss">=REL.PRS</entry>
+              <entry lang="pt-lexGloss">1</entry>
+              <entry lang="pt-lexGloss">1SG(S)=</entry>
+              <entry lang="pt-lexGloss">ser mo&#xE7;a</entry>
+              <entry lang="pt-lexGloss">muito=IPFV</entry>
+              <entry lang="pt-lexGloss">=REL.PRS</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>quando eu era muito mo&#xE7;a,
+					
+						PDYP_MIC_A_01 42.mpg 8.610 10.963
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="8">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">ipa</entry>
+              <entry lang="wca-baseline">uhuru</entry>
+              <entry lang="wca-baseline">mori</entry>
+              <entry lang="wca-baseline">ya</entry>
+              <entry lang="wca-baseline">a</entry>
+              <entry lang="wca-baseline">hapa</entry>
+              <entry lang="wca-baseline">thaprari</entry>
+              <entry lang="wca-baseline">wei,</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">ipa</entry>
+              <entry lang="wca-morpheme">uhuru</entry>
+              <entry lang="wca-morpheme">m&#xF5;ri</entry>
+              <entry lang="wca-morpheme">ya=</entry>
+              <entry lang="wca-morpheme">a=</entry>
+              <entry lang="wca-morpheme">hapa</entry>
+              <entry lang="wca-morpheme">tha=pra=ri</entry>
+              <entry lang="wca-morpheme">=wei</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">1POS</entry>
+              <entry lang="pt-lexGloss">crian&#xE7;a</entry>
+              <entry lang="pt-lexGloss">um</entry>
+              <entry lang="pt-lexGloss">1SG(S)=</entry>
+              <entry lang="pt-lexGloss">3SG(P)=</entry>
+              <entry lang="pt-lexGloss">antes</entry>
+              <entry lang="pt-lexGloss">fazer=TRZ=PFV.TR</entry>
+              <entry lang="pt-lexGloss">=NMZ</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>quando eu tinha feito apenas um filho,PDYP_MIC_A_01 42.mpg 11.057 14.290</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">ya</entry>
+              <entry lang="wca-baseline">a</entry>
+              <entry lang="wca-baseline">maoporan&#xEB;,</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">ya=</entry>
+              <entry lang="wca-morpheme">a=</entry>
+              <entry lang="wca-morpheme">mao=po=ra=n&#xEB;</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">1SG(S)=</entry>
+              <entry lang="pt-lexGloss">3SG(P)=</entry>
+              <entry lang="pt-lexGloss">ter nos bra&#xE7;os ou ombro=guardar=DISTR=REL.PST</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>eu carregando ele nos meus bra&#xE7;os,
+					
+						PDYP_MIC_A_01 42.mpg 14.422 16.080
+					
+				</para>
+    </section>
+    <section>
+      <title>Paragraph</title>
+      <informaltable frame="none">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry lang="wca-baseline">&#x268;h&#x268; t&#xEB;h&#xEB;</entry>
+              <entry lang="wca-baseline">ya</entry>
+              <entry lang="wca-baseline">mamo</entry>
+              <entry lang="wca-baseline">xatioti</entry>
+              <entry lang="wca-baseline">t&#xEB;h&#xEB;,</entry>
+            </row>
+            <row>
+              <entry lang="wca-morpheme">&#x268;h&#x268;=t&#xEB;h&#xEB;</entry>
+              <entry lang="wca-morpheme">ya=</entry>
+              <entry lang="wca-morpheme">mamo</entry>
+              <entry lang="wca-morpheme">xati=o=ti</entry>
+              <entry lang="wca-morpheme">=t&#xEB;h&#xEB;</entry>
+            </row>
+            <row>
+              <entry lang="pt-lexGloss">ANA=REL.PRS</entry>
+              <entry lang="pt-lexGloss">1SG(S)=</entry>
+              <entry lang="pt-lexGloss">olho</entry>
+              <entry lang="pt-lexGloss">cravar=IPFV=DUR</entry>
+              <entry lang="pt-lexGloss">=REL.PRS</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>e ent&#xE3;o quando estava observando,
+					
+						PDYP_MIC_A_01 42.mpg 16.080 18.460
+					
+				</para>
+    </section>
+  </section>
+</article>
