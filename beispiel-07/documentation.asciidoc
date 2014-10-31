@@ -19,13 +19,13 @@ A short description how to use these collection of scripts.
 
 This archive consists of the following files:
 
-quelle.xml:: xml source file as received from LingPaper
+`quelle.xml`:: xml source file as received from LingPaper
 
-transform.py:: transform output.xml via XSLT transformation
+`transform.py`:: transform `output.xml` via XSLT transformation
 
-transform.xsl:: XSLT transformation script
+`transform.xsl`:: XSLT transformation script
 
-translate.sh:: a shell script that automates the transformation process
+`translate.sh`:: a shell script that automates the transformation process
 
 = Background =
 
@@ -38,8 +38,30 @@ lexgloss data.
 To receive a nice-looking output the given source file is slightly
 adjusted, and prints the output data as five columns per line. In case a
 sentence contains more than five terms, a line break is added, and the
-remaining items are printed on the next line.
+remaining items are printed on the next line. 
+
+In simple words the nodes are reorganized in a table with five columns,
+each. The original linguistic structure is kept as well as formal
+DocBook/XML structure.
 
 = How to use =
 
+Use the shell script delivered with this archive, and call it as
+follows:
 
+----
+$ ./translate.sh
+----
+
+This script does:
+
+. adjust the given input file `quelle.xml` using python, and create an
+output file named `output.xml`. Reorganize the XML nodes.
+
+. transform `output.xml` to `ausgabe.xml` via xslt transformation (DocBook)
+
+. pretty-print `ausgabe.xml` to `ausgabe2.xml`. `ausgabe2.xml` will
+contain readeable DocBook/XML code, then.
+
+. create a PDF file from `ausgabe2.xml` (DocBook) to see how it looks
+like.
