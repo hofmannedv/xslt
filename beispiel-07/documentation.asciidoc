@@ -1,0 +1,45 @@
+Transforming XSLT
+===================
+Frank Hofmann
+:subtitle:
+:doctype: book
+:copyright: Frank Hofmann
+:revnumber: 1.0
+:Author Initials: FH
+:edition: 1
+:lang: en
+:date: October 31, 2014
+:numbered:
+
+= Preface =
+
+A short description how to use these collection of scripts.
+
+= Files =
+
+This archive consists of the following files:
+
+quelle.xml:: xml source file as received from LingPaper
+
+transform.py:: transform output.xml via XSLT transformation
+
+transform.xsl:: XSLT transformation script
+
+translate.sh:: a shell script that automates the transformation process
+
+= Background =
+
+The input format is based on DocBook/XML, and contains additional XML
+elements that are necessary to describe the linguistic structure of the
+sentences. Each sentence contains single words one after the other. A
+so-called line group contains baseline language data, morpheme data, and
+lexgloss data.
+
+To receive a nice-looking output the given source file is slightly
+adjusted, and prints the output data as five columns per line. In case a
+sentence contains more than five terms, a line break is added, and the
+remaining items are printed on the next line.
+
+= How to use =
+
+
